@@ -1,12 +1,12 @@
 <h2 align="left">Hi there 👋, I'm Simonas</h2>
-<h4 align="left">Video solutions engineer by day, developer by night</h4>
+<h4 align="left">Video solutions/workflows engineer by day, developer by night</h4>
 <br>
 
 - 🌱 I’m currently learning **Python, PHP, JavaScript, Ruby**
 
-- 💬 Ask me about **all sorts Live/On Demand video, Python, Wordpress PHP**
+- 💬 Ask me about **all things Live/On Demand video, Python, Wordpress PHP**
 
-- ⚡ Fun fact - **I love cycling and long distance multi-day trekking**
+- ⚡ Fun fact - **I love cycling and multi-day long distance trekking**
 
 <br>
 <h4 align="left">Find me on:</h4>
