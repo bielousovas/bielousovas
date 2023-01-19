@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **all things Live/On Demand video, Python, Wordpress**
 
-- ⚡ Fun fact - **I love cycling and multi-day long distance trekking**
+- ⚡ Fun fact - **I'm into endurance sports - long-distance trail running, bikepacking and multi-day trekking**
 
 <br>
 <h4 align="left">Find me on:</h4>
