@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python, PHP, JavaScript, Ruby**
 
-- 💬 Ask me about **all things Live/On Demand video, Python, Wordpress PHP**
+- 💬 Ask me about **all things Live/On Demand video, Python, Wordpress**
 
 - ⚡ Fun fact - **I love cycling and multi-day long distance trekking**
 
