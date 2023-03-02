@@ -1,5 +1,5 @@
 <h2 align="left">Hi there 👋, I'm Simonas</h2>
-<h4 align="left">Video solutions/workflows engineer by day, developer by night</h4>
+<h4 align="left">Video platform and workflow developer</h4>
 <br>
 
 - 🌱 I’m currently learning **Python, PHP, JavaScript, Ruby**
